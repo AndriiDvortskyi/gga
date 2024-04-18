@@ -10,13 +10,13 @@ header{
 padding-right: 600px;
 height: 180px;
 top: -10px;
-display: flex;
+
 
 img{
 position: absolute;
 left: 150px;
 top: 20px;
-display: flex ;
+
 }
 
 h1{
@@ -24,7 +24,7 @@ position: absolute;
 top: 40px;
 font-size: 40px;
 right: 150px;
-display: flex;
+
 }
 
 
@@ -32,7 +32,7 @@ display: flex;
 }
 
 #d1{
-    display: flex;
+
 position: absolute;
 background-color: grey;
 width: 25%;
@@ -42,7 +42,7 @@ left: 0px;
 
 
 a{
-display: flex;
+
     font-size: 40px;
     text-decoration: none;
     color: white;
@@ -52,21 +52,20 @@ display: flex;
 position: absolute;
 top: 200px;
 left: 140px;
-display: flex;
 
 }
 #a2{
     position: absolute;
     top: 400px;
     left: 60px;
-    display: flex;
+
     
     }
     #a3{
         position: absolute;
         top: 600px;
         left: 140px;
-        display: flex;
+      
         
         }    
 
@@ -85,11 +84,11 @@ color: white;
 bottom: 0px;
 right: 0px;
 width: 100%;
-display: flex;
+
 
 p{
 padding-left: 600px;
-display: flex;
+
 }
 
 }
