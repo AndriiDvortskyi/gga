@@ -82,9 +82,9 @@ position: absolute;
 background-color: darkgreen;
 font-size: 30px;
 color: white;
-top: 980px;
+bottom: 0px;
 right: 0px;
-width: 1590px;
+width: 100%;
 display: flex;
 
 p{
